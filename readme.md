@@ -1,0 +1,1 @@
+This repository contains code examples from the article [A straightforward guide for Go channel](https://dev.to/eyo000000/a-straightforward-guide-for-go-channel-3ba2).
